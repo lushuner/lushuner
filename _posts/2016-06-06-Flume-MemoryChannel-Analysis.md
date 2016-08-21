@@ -8,10 +8,8 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Flume
+    - 大数据
 ---
-
-> “If you do it right, open sourcing code is great advertising for you and your company. ”
-
 
 
 ## 前言

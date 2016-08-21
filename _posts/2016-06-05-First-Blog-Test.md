@@ -11,10 +11,6 @@ tags:
     - Git
 ---
 
-> “If you do it right, open sourcing code is great advertising for you and your company. ”
-
-
-
 ### 初始化仓库
     进入新建的仓库目录下，输入命令 `git init`  
 
