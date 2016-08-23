@@ -2,7 +2,7 @@
 layout:     post
 title:      "设计模式：单例模式"
 subtitle:   "单例模式"
-date:       2016--08-22 12:00:00
+date:       2016--08-23 12:00:00
 author:     "Lushun"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
